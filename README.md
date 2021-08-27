@@ -1,5 +1,3 @@
-<img height="50em" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif"/>
-
 # Hello :wave:
 ### Bem-vindo ao meu GitHub! :partying_face:
 Aqui está meus trabalhos, testes e estudos...<br>
