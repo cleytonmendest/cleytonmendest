@@ -1,6 +1,6 @@
 ![imagegit](https://media.discordapp.net/attachments/329767047124746250/944687539674030080/gitImage1.jpg)
 
-## Meu nome é Cleyton e sou Desenvolvedor Front-end :wave:
+## Meu nome é Cleyton e sou Desenvolvedor Web :wave:
 
 - Estudando ReactJs e NodeJs
 - Atualmente trabalho na ED3 Digital
