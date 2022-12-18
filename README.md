@@ -2,7 +2,7 @@
 
 ## Meu nome é Cleyton e sou Desenvolvedor Web :wave:
 
-- Estudando ReactJs e NodeJs
+- Estudando Next e Shopify
 - Atualmente trabalho na ED3 Digital como Desenvolvedor Front-End
 <br><br>
 
