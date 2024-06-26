@@ -1,10 +1,10 @@
 ![imagegit](https://media.discordapp.net/attachments/329767047124746250/944687539674030080/gitImage1.jpg)
 
-## Meu nome é Cleyton e sou Desenvolvedor Web :wave:
+## Meu nome é Cleyton e sou FrontEd Developer :wave:
 
-- Estudando Next e Shopify
-- Experiência em React, VTEX CMS e VTEX IO
-- Atualmente trabalho na ED3 Digital como Desenvolvedor Front-End
+- Estudando Shopify
+- Experiência em React/Next, VTEX CMS e VTEX IO
+- Atualmente trabalho como FronEnd Developer na Wedigi
 <br><br>
 
 ## Linguagens e Frameworks
