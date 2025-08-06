@@ -2,7 +2,7 @@
 
 - Estudando Shopify
 - Experiência em React/Next, VTEX CMS e VTEX IO
-- Atualmente trabalho como Front End Developer na Wedigi
+- Atualmente trabalho como Software Engineer no GrupoQ
 - Tive o prazer de atuar em várias lojas sendo algumas delas: Tiffany & Co, Estrela, Candide, Hugo Boss, Calvin Klein, entre outras...
 <br><br>
 
