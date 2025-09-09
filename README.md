@@ -1,8 +1,9 @@
-## Meu nome é Cleyton e sou Front End Developer :wave:
+## Meu nome é Cleyton e sou Front End Engineer :wave:
 
-- Estudando Shopify
+- Estudando Golang/Ruby
+- Cursando Engenharia de Software
 - Experiência em React/Next, VTEX CMS e VTEX IO
-- Atualmente trabalho como Front End Developer na Wedigi
+- Atualmente como Front End Engineer no [GrupoQ](https://www.grupoq.online/)
 - Tive o prazer de atuar em várias lojas sendo algumas delas: Tiffany & Co, Estrela, Candide, Hugo Boss, Calvin Klein, entre outras...
 <br><br>
 
