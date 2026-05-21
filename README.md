@@ -1,4 +1,4 @@
-## Meu nome é Cleyton e sou Front End Engineer :wave:
+## Meu nome é Cleyton e sou Software Engineer :wave:
 
 - Estudando Golang/Ruby
 - Cursando Engenharia de Software
